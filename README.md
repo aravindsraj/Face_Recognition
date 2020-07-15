@@ -4,6 +4,7 @@
 For training with custom data, place your data as following order.
 
 dataset ==>> train
+
 dataset ==>> test
    
 Images which are in train folder is for training
