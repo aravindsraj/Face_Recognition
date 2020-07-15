@@ -3,10 +3,8 @@
 # Training
 For training with custom data, place your data as following order.
 
-dataset
-   |
-   |-train
-   |-test
+dataset ==>> train
+dataset ==>> test
    
 Images which are in train folder is for training
 Images which are in test folder is for validation
