@@ -7,7 +7,7 @@ dataset ==>> train
 
 dataset ==>> test
    
-Images which are in train folder is for training
+Images which are in train folder is for training,
 Images which are in test folder is for validation
 
 run "python3 train.py"
