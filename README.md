@@ -8,8 +8,9 @@ Fo this project, there are two ways to pass the label to the model.
 One is passing the image name along with it's label in an text file.
 Second one is by keeping the images of particular label in an folder and keep the folders in an structural way.
 
-I used the second way so I kept the daata as in image.
-![alt text](https://github.com/aravindsraj/Face_Recognition/blob/master/images/folder%20structure.png)
+I used the second way so I kept the data as in image.
+
+![plot](https://github.com/aravindsraj/Face_Recognition/blob/master/images/folder%20structure.png)
 
 ## Training
 For training I have used InceptionV3 pre-trained model.
